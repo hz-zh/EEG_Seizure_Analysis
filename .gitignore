@@ -2,3 +2,4 @@ references/
 /data/
 /predictions/
 *.zip
+*.json
